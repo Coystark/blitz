@@ -1,0 +1,3 @@
+[submodule "blitz-submodule"]
+	path = app/pages
+	url = https://github.com/Coystark/blitz-submodule
