@@ -1,0 +1,3 @@
+[submodule "blitz-submodule"]
+	path = blitz-submodule
+	url = https://github.com/Coystark/blitz-submodule
